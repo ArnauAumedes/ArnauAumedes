@@ -1,14 +1,3 @@
-<!--------Arnau Aumedós github profile @ArnauAumedes------------>
-<!--- header start --->
-<img src="https://github.com/ArnauAumedes/ArnauAumedes/assets/your-asset-path" height="21px" style="width: 100%;">
-<!--- header end --->
-
-<!--- hero section start --->
-<img src="https://github.com/ArnauAumedes/ArnauAumedes/assets/your-asset-path">
-<!--- hero section end --->
-
-<br>
-
 <!--- about section start --->
 # < Hello, World />
 ![](https://komarev.com/ghpvc/?username=ArnauAumedes&label=PROFILE+VIEWS)
