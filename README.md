@@ -90,7 +90,3 @@ Excited to collaborate or discuss web development? Let’s connect!
 @ArnauAumedes: "Thanks for visiting!"
 </div>
 <!--- outro section start --->
-
-<!--- footer section start --->
-<img src="https://github.com/ArnauAumedes/ArnauAumedes/assets/your-asset-path" height="55px" style="width: 100%; margin-top: -175px;padding: 5px;">
-<!--- footer section end --->
