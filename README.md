@@ -59,13 +59,7 @@ I am a Web Development (DAW) student with strong skills in CSS, HTML, Java, and 
 ## Projects:
 
 ### [Personal Portfolio](https://github.com/ArnauAumedes/portfolio)
-	- An interactive portfolio showcasing my skills, projects, and achievements.
-	- Technologies Used: HTML, CSS, JavaScript.
-
-### [Java Calculator](https://github.com/ArnauAumedes/java-calculator)
-	- A simple calculator built with Java, featuring a clean and intuitive interface.
-	- Technologies Used: Java, Swing.
-<!-----/projects-------->
+https://github.com/ArnauAumedes/resume
 
 <br>
 
