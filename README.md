@@ -8,7 +8,7 @@
 📍 Catalonia, Spain &nbsp;·&nbsp; 💼 **Open to work** (frontend, backend or full stack · remote or on-site)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arauji-dev)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnauaumedos@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.aumedesss@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArnauAumedes/portfolio)
 
 ![Profile views](https://komarev.com/ghpvc/?username=ArnauAumedes&label=PROFILE+VIEWS&color=0e75b6&style=flat)
@@ -23,8 +23,8 @@ I'm a web developer with a **Higher National Diploma in Web Application Developm
 
 I've worked across the full stack — building interfaces with **React and Next.js**, managing content with **Payload CMS** and developing APIs and backend logic — with a stronger background on the **frontend**. I care about clean, maintainable code, good UX and shipping things that actually work.
 
-- 🔭 Currently building a family shopping-list app with **Next.js, Prisma and SQLite**, accessible through **NFC tags** around the house.
-- 🌱 Learning more about backend architecture, databases and deployment.
+- 🔭 Currently working on **FutbolHub**, **OpenIA-Maps** and a family shopping-list app opened with **NFC tags** around the house.
+- 🌱 Learning more about backend architecture, databases, AI integrations and deployment.
 - 🗣️ Spanish & Catalan (native) · English (B2)
 <!--- about section end --->
 
@@ -81,9 +81,11 @@ Development of client websites and web apps with JavaScript/TypeScript, React, N
 
 | Project | Description | Stack |
 |---|---|---|
+| [**FutbolHub**](https://github.com/ArnauAumedes/FutbolHub) | Football web app that brings together competitions, teams, matches and stats in one place, consuming data from an external football API. | TypeScript · React · REST APIs |
+| [**OpenIA-Maps**](https://github.com/ArnauAumedes/OpenIA-Maps) | Interactive map app powered by AI: ask in natural language and get places and results shown directly on the map. | TypeScript · OpenAI API · Maps |
+| **NFC Family Shopping List** *(in progress)* | Shared shopping list for the family, opened by tapping NFC tags placed around the house (fridge, pantry, bathroom…). Full CRUD with Server Actions and a cached catalog of real supermarket products (Mercadona & Consum). | Next.js · TypeScript · Prisma · SQLite · Tailwind |
 | [**Personal Portfolio**](https://github.com/ArnauAumedes/portfolio) | My personal website: who I am, experience, projects and skills. Available in Spanish, Catalan and English. | Next.js · TypeScript |
 | [**Resume**](https://github.com/ArnauAumedes/resume) | My CV, kept up to date. | — |
-| **NFC Family Shopping List** *(in progress)* | Shared shopping list for the family, opened by tapping NFC tags placed around the house (fridge, pantry, bathroom…). Full CRUD with Server Actions and a cached product catalog. | Next.js · TypeScript · Prisma · SQLite · Tailwind |
 <!--- projects section end --->
 
 <!--- stats section start --->
@@ -103,7 +105,7 @@ Development of client websites and web apps with JavaScript/TypeScript, React, N
 I'm actively looking for my first full-time role as a web developer. If you're hiring or just want to talk about web development, feel free to reach out:
 
 - 💼 LinkedIn: [linkedin.com/in/arauji-dev](https://www.linkedin.com/in/arauji-dev)
-- ✉️ Email: [arnauaumedos@gmail.com](mailto:arnauaumedos@gmail.com)
+- ✉️ Email: [a.aumedesss@gmail.com](mailto:a.aumedesss@gmail.com)
 <!--- contact section end --->
 
 <div align="center">
